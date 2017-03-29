@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_relative_layout_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="media.pipi.lab2.RelativeLayoutTest"
+    android:background="#000">
+
+    <TextView
+        android:text="RED"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:background="#FF0000"
+        android:id="@+id/textView17"
+        android:textSize="14sp"
+        android:padding="14dp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="YELLOW"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:background="#FFFF00"
+        android:id="@+id/textView18"
+        android:textSize="14sp"
+        android:padding="14dp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="ORANGE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:background="#FF6100"
+        android:id="@+id/textView19"
+        android:textSize="14sp"
+        android:padding="14dp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="VIOLET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#8A2BE2"
+        android:id="@+id/textView20"
+        android:textSize="14sp"
+        android:padding="14dp"
+        android:textAlignment="center"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="BLUE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="#0000FF"
+        android:id="@+id/textView21"
+        android:textSize="14sp"
+        android:padding="14dp"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:text="INDIGO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/textView21"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:background="#082E54"
+        android:id="@+id/textView22"
+        android:textSize="14sp"
+        android:padding="14dp"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:text="GREEN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_toLeftOf="@id/textView21"
+        android:layout_margin="10dp"
+        android:background="#00FF00"
+        android:id="@+id/textView23"
+        android:textSize="14sp"
+        android:padding="14dp"
+        android:textStyle="normal|bold" />
+
+</RelativeLayout>
