@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Button btn = (Button) findViewById(R.id.button);
+
         btn.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
                 String url = "";
@@ -23,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 url = editText.getText().toString();
                 Intent intent = new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse(url));
+                intent.putExtra("url",url);
                 startActivity(intent);
             }
         });
