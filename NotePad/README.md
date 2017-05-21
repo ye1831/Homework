@@ -62,6 +62,7 @@
         int[] viewIDs = { android.R.id.text1,R.id.tv_time_stamp };
 ### 运行截图
 
+![Alt text](https://github.com/ye1831/Homework/blob/master/NotePad/app/src/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/1.png)
 
 ## 模糊搜索
 先在*list_options_menu.xml*文件中添加item组件
