@@ -104,7 +104,7 @@
 ![Alt text](https://github.com/ye1831/Homework/blob/master/NotePad/app/src/image/3.png)
 ![Alt text](https://github.com/ye1831/Homework/blob/master/NotePad/app/src/image/4.png)
 
-##更改背景颜色
+## 更改背景颜色
 先在*editor_options_menu.xml*文件中添加新的组件
 
     <item android:id="@+id/menu_color"
@@ -147,7 +147,7 @@
 ![Alt text](https://github.com/ye1831/Homework/blob/master/NotePad/app/src/image/6.png)
 ![Alt text](https://github.com/ye1831/Homework/blob/master/NotePad/app/src/image/7.png)
 
-##更改字体大小
+## 更改字体大小
 在*editor_options_menu.xml*中添加item，再嵌套一组item
 
     <item android:id="@+id/menu_change_size"
@@ -196,4 +196,4 @@
 修改了界面显示主题和图标，优化了显示布局。
 ### 效果截图
 
-![Alt text](https://github.com/ye1831/Homework/blob/master/NotePad/app/src/image/12.png)
+![Alt text](https://github.com/ye1831/Homework/blob/master/NotePad/app/src/image/13.png)
