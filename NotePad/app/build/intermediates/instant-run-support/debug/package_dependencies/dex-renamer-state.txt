@@ -1,0 +1,16 @@
+#Sat May 13 10:07:18 CST 2017
+renamed.4=classes4.dex
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes5.dex
+base.4=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_8ec83f4ca7756e2ac0555d50873b513dc90d1b13
+renamed.0=classes.dex
+base.3=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_699f5a0ac3db6b2fbc654511d101c4f767c9c050
+base.2=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7275dd5e780a5c58a8e91789121ae07255c6f7f0
+base.1=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_963264fd0f6da4af0a8790a85174c19c119e1e92
+base.0=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_477ae7f1f1f76d6972b5a64554cd72932429bbc8
+file.4=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_8ec83f4ca7756e2ac0555d50873b513dc90d1b13\\classes.dex
+file.3=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_699f5a0ac3db6b2fbc654511d101c4f767c9c050\\classes.dex
+file.2=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7275dd5e780a5c58a8e91789121ae07255c6f7f0\\classes.dex
+file.1=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_963264fd0f6da4af0a8790a85174c19c119e1e92\\classes.dex
+file.0=D\:\\software\\androidspace\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_477ae7f1f1f76d6972b5a64554cd72932429bbc8\\classes.dex

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_save"
+          android:icon="@drawable/ic_menu_save"
+          android:alphabeticShortcut='s'
+          android:title="@string/menu_save"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/menu_revert"
+          android:icon="@drawable/ic_menu_revert"
+          android:title="@string/menu_revert" />
+    <item android:id="@+id/menu_delete"
+          android:icon="@drawable/ic_menu_delete"
+          android:title="@string/menu_delete"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/menu_night"
+        android:title="night"/>
+    <item android:id="@+id/menu_color"
+        android:title="change_color">
+
+        <menu>
+        <item
+            android:id="@+id/color_red"
+            android:title="red" />
+        <item
+            android:id="@+id/color_gold"
+            android:title="gold" />
+        <item
+            android:id="@+id/color_greenyellow"
+            android:title="greenyellow" />
+        <item
+            android:id="@+id/color_lightseagreen"
+            android:title="lightseagreen" />
+
+    </menu>
+    </item>
+    <item android:id="@+id/menu_change_size"
+        android:title="change_size">
+        <menu>
+            <item android:id="@+id/size_up"
+                android:title="size_up" />
+            <item android:id="@+id/size_down"
+                android:title="size_down" />
+        </menu>
+    </item>
+</menu>
